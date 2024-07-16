@@ -1,0 +1,42 @@
+h1{
+    font-size: 100px;
+    font-weight: 100;
+    font-style: bold;
+    text-align: center;
+    color: aqua;
+}
+.player1 {
+    background-color: aquamarine;
+    padding:100px 100px;
+   
+  
+    
+    
+    
+}
+.player2{
+    background-color: rgba(0, 128, 0, 0.396);
+    padding:100px 100px;
+    
+}
+p{
+   
+   text-align: center;
+   font-size: 20px;
+   
+  
+  
+ 
+}
+.comman{
+    flex-direction: row;
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
