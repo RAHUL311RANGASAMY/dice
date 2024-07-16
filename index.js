@@ -1,6 +1,6 @@
 var random=Math.floor(Math.random()*6)+1;
 var randomdiceimages="dice"+random+".png";
-var randomimagessources="images/"+randomdiceimages;
+var randomimagessources=randomdiceimages;
 //logic 5-6 lines
 var images1=document.querySelectorAll("img")[0];
 images1.setAttribute("src",randomimagessources);
